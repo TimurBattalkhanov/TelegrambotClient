@@ -1,1 +1,0 @@
-botrun: sh target/bit/botapp

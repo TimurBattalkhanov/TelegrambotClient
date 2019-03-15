@@ -1,0 +1,6 @@
+src/main/resources/botconfig.properties
+src/main/resources/botconfig_en_US.properties
+/.idea
+TelegramBotCurrency.iml
+
+

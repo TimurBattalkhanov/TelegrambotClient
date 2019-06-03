@@ -1,5 +1,8 @@
 package kz.timur;
 
+import com.mysql.jdbc.Connection;
+import com.mysql.jdbc.Statement;
+
 import java.sql.*;
 import java.util.ResourceBundle;
 
